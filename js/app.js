@@ -7,3 +7,6 @@ const register = (user) => {
 const getMe = (user) => {
   return "user";
 };
+const addCourse = (course) => {
+  return true;
+};
