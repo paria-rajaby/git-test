@@ -4,3 +4,6 @@ const itlogin = () => {
 const register = (user) => {
   return true;
 };
+const getMe = (user) => {
+  return "user";
+};
