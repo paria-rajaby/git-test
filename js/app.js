@@ -10,3 +10,7 @@ const getMe = (user) => {
 const addCourse = (course) => {
   return true;
 };
+
+const test1 = (test) => {
+  return false;
+};
