@@ -14,3 +14,6 @@ const addCourse = (course) => {
 const test1 = (test) => {
   return false;
 };
+const test2 = (test) => {
+  return true;
+};
