@@ -17,3 +17,6 @@ const test1 = (test) => {
 const test2 = (test) => {
   return true;
 };
+const test3 = (test3) => {
+  return true;
+};
