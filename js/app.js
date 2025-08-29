@@ -20,3 +20,6 @@ const test2 = (test) => {
 const test3 = (test3) => {
   return true;
 };
+const userfunc = (user) => {
+  return true;
+};
